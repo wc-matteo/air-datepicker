@@ -7,7 +7,7 @@
         baseTemplate = '' +
             '<div class="datepicker">' +
             '<i class="datepicker--pointer"></i>' +
-            '<nav class="datepicker--nav"></nav>' +
+            '<div class="datepicker--nav"></div>' +
             '<div class="datepicker--content"></div>' +
             '</div>',
         defaults = {
